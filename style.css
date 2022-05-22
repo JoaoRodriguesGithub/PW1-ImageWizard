@@ -1,0 +1,13 @@
+.fa-download {
+    float: right;
+}
+
+.paginacao{
+    display: flex;
+    justify-content: center;
+}
+
+.esquerda{
+    display: flex;
+    align-items: center;
+}
